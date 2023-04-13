@@ -12,7 +12,7 @@
 
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item px-3 "><a href="#" class="nav-link">About</a></li>
-                <li class="nav-item px-3"><a href="#" class="nav-link">Contact</a></li>
+                <li class="nav-item px-3"><a href="contact.html" class="nav-link">Contact</a></li>
                 <li class="nav-item px-3"><a href="#" class="nav-link">Services</a></li>
             </ul>
 
